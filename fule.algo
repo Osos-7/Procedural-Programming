@@ -1,0 +1,21 @@
+// Algo 
+
+
+var input = window.prompt("Enter a sentence")
+
+
+for(let i=0; input<)
+
+
+
+
+// PsuedoCode
+
+VAR
+input_sentence: String[];
+vowels: String[]:= {'a','e','i','o','u'}
+i: INTEGER
+
+BEGIN
+Write("Enter a Sentence")
+Read(input_sentence)
